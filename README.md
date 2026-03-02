@@ -1,4 +1,4 @@
 # Namrata-
 This is my first repository
-hello
+Author: namrata nalawade
 
